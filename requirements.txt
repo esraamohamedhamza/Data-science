@@ -1,0 +1,13 @@
+pandas
+seaborn
+re
+nltk
+matplotlib
+scikit-learn
+streamlit
+numpy
+tensorflow  # Assuming TensorFlow 2.x is needed
+
+# Optional dependencies (consider adding these based on specific needs)
+lime  # For explainability with LIME
+stopwords  # For stopword removal (already imported from nltk)
